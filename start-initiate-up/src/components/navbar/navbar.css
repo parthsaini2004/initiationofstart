@@ -1,0 +1,28 @@
+#left-nav{
+  margin-left: -4vw;
+}
+.spacenav li{
+  margin: 0vw 2vw;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+.navcolor{background-color: rgb(77, 187, 220)!important;}
+/* .loginnav{margin-left: -40vw;position: relative;} */
+
+.mr-auto, .mx-auto {
+  margin-right: 0!important;
+}
+
+.vl {
+  border-left: 2px solid black;
+  height: 4vw;
+  margin-left: 5vw;
+}
+
+.hire{margin-left: 2vw;color: rgb(158, 31, 31);font-weight: 700;}
+.leftnav{margin-left: 7vw;}
+.hire a{text-decoration: none;color: white;font-weight: 700;text-underline-offset :none;}
+.hire a:hovers{text-decoration: none;color: rgb(35, 220, 53);font-weight: 700;text-underline-offset :none;}
+
+.searchnav{margin-right: 10vw!important;}

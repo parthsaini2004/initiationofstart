@@ -1,0 +1,9 @@
+.homepage{height: 60vw;width: 100%;background-color:white;position: relative;display: flex;flex-direction: row;}
+.imgperson img{height: 40vw;width: 11vw;top: 10vw;position: relative;left: 0vw;z-index: 3;}
+.circleimg img{height: 45vw;width: 35vw;top: -35vw;position: relative;left: 0vw;z-index: 0;}
+.info{z-index: 100;position: relative;top: 8vw;left: -23vw;font-size: 2vw;line-height: 2.7vw;font-weight: 400;color: white;max-width: 17vw;}
+
+.home3{margin-top: 7vw;font-size: 2vw;margin-left:-5vw;color: gray;}
+.home3 div{margin :3vw 1vw;}
+.home3 div b{color: black;}
+.home3 div a{color: rgb(0, 156, 205);}

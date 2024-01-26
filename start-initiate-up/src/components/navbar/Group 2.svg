@@ -1,0 +1,6 @@
+<svg width="307" height="38" viewBox="0 0 307 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 19C0 8.50659 8.50659 0 19 0H256V38H19C8.50659 38 0 29.4934 0 19Z" fill="white" fill-opacity="0.9"/>
+<path d="M256 0H288C298.493 0 307 8.50659 307 19C307 29.4934 298.493 38 288 38H256V0Z" fill="white" fill-opacity="0.48"/>
+<circle cx="274" cy="13" r="7" stroke="black" stroke-width="2"/>
+<line x1="277.822" y1="19.4308" x2="286.822" y2="32.4308" stroke="black" stroke-width="2"/>
+</svg>
